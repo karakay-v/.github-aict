@@ -71,6 +71,21 @@
 ---
 
 ## 🌍 Контакти
-- 📍 Адреса: [м. Київ, вул. Мала Шияновська (Немировича-Данченка), 2, навчальний корпус 4]  
-- ✉️ Email: **aict.digit@gmail.com**  
-- 🌐 Вебсайт: [https://www.aict.com.ua](https://www.aict.com.ua/)
+
+| 📍 Адреса | ✉️ Email | 🌐 Вебсайт |
+|-----------|----------|-----------|
+| м. Київ, вул. Мала Шияновська (Немировича-Данченка), 2, навчальний корпус 4 | aict.digit@gmail.com | [www.aict.com.ua](https://www.aict.com.ua/) |
+
+---
+
+### 📱 Соцмережі
+
+| Facebook | X | LinkedIn | Instagram |
+|:--------:|:---:|:--------:|:---------:|
+| [![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg)](https://facebook.com/) | [![X](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg)](https://x.com/) | [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://linkedin.com/) | [![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://instagram.com/) |
+
+
+---
+
+### 🗺️ Розташування
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d635.3806170586867!2d30.538295696082976!3d50.43136820985222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4cf0f328a4c17%3A0x78886d28e61100cf!2sKyiv%20National%20University%20of%20Technologies%20and%20Design!5e0!3m2!1sen!2sua!4v1758972380936!5m2!1sen!2sua" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
