@@ -16,6 +16,46 @@
 &nbsp;
 ---
 
+<details>
+  <summary>
+    <h2>
+      🖼️ Наша фото галерея
+    </h2>
+  </summary>
+  
+  <div align="center">
+    <p><b>Ми на Містерія КНУТД</b></p>
+    <img width="700px" src="https://knutd.edu.ua/images/MKT_ICT/1_24.jpg" alt="Ми на Містерія КНУТД" />
+  </div>
+  
+  <div align="center">
+    <p><b>Ми 2</b></p>
+    <img width="700px" src="https://knutd.edu.ua/images/MKT_ICT/2_24.jpg" alt="2" />
+  </div>
+
+  <div align="center">
+    <p><b>Ми 3</b></p>
+    <img width="700px" src="https://knutd.edu.ua/images/MKT_ICT/3_24.jpeg" alt="3" />
+  </div>
+
+  <div align="center">
+    <p><b>Ми 4</b></p>
+    <img width="700px" src="https://knutd.edu.ua/images/MKT_ICT/4_24.jpg" alt="4" />
+  </div>
+
+  <div align="center">
+    <p><b>Ми 5</b></p>
+    <img width="700px" src="https://knutd.edu.ua/images/MKT_ICT/5_24.jpg" alt="5" />
+  </div>
+
+  <div align="center">
+    <p><b>Ми 6</b></p>
+    <img width="700px" src="https://knutd.edu.ua/images/MKT_ICT/6_24.jpg" alt="6" />
+  </div>
+</details>
+
+---
+
 ## 🎓 Про кафедру
 
 ### 📅 Заснована: **2021 рік**
@@ -70,7 +110,7 @@
 - Мікропроцесорні та програмні засоби автоматизації
 ---
 
-## 🌍 Контакти
+## 🌍 Наші Контакти
 
 | 📍 Адреса | ✉️ Email | 🌐 Вебсайт |
 |-----------|----------|-----------|
@@ -78,7 +118,7 @@
 
 ---
 
-### 📱 Соцмережі
+### 📱 Ми в Соцмережах
 
 | Facebook | X | LinkedIn | Instagram |
 |:--------:|:---:|:--------:|:---------:|
@@ -87,12 +127,13 @@
 
 ---
 
-### 🗺️ Розташування
+### 🗺️ Як нас знайти
 
 <a href="https://maps.app.goo.gl/98UJMDKA5tQER3oT7" target="_blank" align="left">
   <img src="location.png" alt="Мапа розташування кафедри" width="600px"/>
 </a>
 
+>
 > Кафедра знаходиться у навчальному корпусі №4, м. Київ, вул. Мала Шияновська (Немировича-Данченка), 2.  
 > Легко знайти за допомогою Google Maps або навігаційних сервісів.
 >
