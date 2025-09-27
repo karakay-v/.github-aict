@@ -7,7 +7,7 @@
 
 <!-- end organization badges -->
 
-<img src="logo.jpg" alt="Логотип кафедри" width="150" align="left" style="margin-right:20px;"/>
+<img src="logo.jpg" alt="Логотип кафедри" width="150" align="left" style="margin-right: 20px;"/>
 
 Ласкаво просимо на офіційну Git-сторінку кафедри **Інформаційних та Комп’ютерних Технологій**!
 
@@ -143,11 +143,33 @@
 
 <a id="social"></a>
 
-### 📱 Ми в Соцмережах
+<h3>📱 Ми в Соцмережах</h3>
 
-| Facebook | X | LinkedIn | Instagram |
-|:--------:|:---:|:--------:|:---------:|
-| [![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg)](https://facebook.com/) | [![X](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg)](https://x.com/) | [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://linkedin.com/) | [![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://instagram.com/) |
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://facebook.com/">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" alt="Facebook" width="40px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" alt="X (Twitter)" width="40px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" width="40px"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram" width="40px"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
