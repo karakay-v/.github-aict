@@ -88,4 +88,12 @@
 ---
 
 ### 🗺️ Розташування
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d635.3806170586867!2d30.538295696082976!3d50.43136820985222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4cf0f328a4c17%3A0x78886d28e61100cf!2sKyiv%20National%20University%20of%20Technologies%20and%20Design!5e0!3m2!1sen!2sua!4v1758972380936!5m2!1sen!2sua" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<a href="https://maps.app.goo.gl/98UJMDKA5tQER3oT7" target="_blank" align="left">
+  <img src="location.png" alt="Мапа розташування кафедри" width="600px"/>
+</a>
+
+> Кафедра знаходиться у навчальному корпусі №4, м. Київ, вул. Мала Шияновська (Немировича-Данченка), 2.  
+> Легко знайти за допомогою Google Maps або навігаційних сервісів.
+>
+> *Клік на карті відкриє її у Google Maps.*
